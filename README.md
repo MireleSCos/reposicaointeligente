@@ -7,7 +7,9 @@ O projeto consiste em automatizar o processo de solicitação de matrículas, qu
 ## Objetivos
 
 * Facilitar a solicitação/reposição de avaliações;
-* 
 
-## Recursos
+## Tecnologias
+
+* Laravel (PHP);
+* API rest SUAP
 
